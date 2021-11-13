@@ -1,4 +1,5 @@
-# Internet Download Manager - Windows - Patches
+#     Internet Download Manager - Windows - Patches
+
 Internet Download Manager for Windows platform
 
 Including Internet Download Manager Patch v17.8 by Ali.Dbg
