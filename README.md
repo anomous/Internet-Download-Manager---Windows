@@ -2,7 +2,7 @@
 
 Internet Download Manager for Windows platform
 
-Including Internet Download Manager Patch v17.8 by Ali.Dbg
+Including Internet Download Manager Patch v18.1 by Ali.Dbg
 
 for the latest version of Internet Download Manager v6.41 Build 2
 
@@ -10,7 +10,7 @@ for the latest version of Internet Download Manager v6.41 Build 2
 
 Install Setup.
 
-Run "Patch" from Ali.Dbg.
+Run latest "Patch" from Ali.Dbg.
 
 Press button "Crack" on lower left side of application window.
 
